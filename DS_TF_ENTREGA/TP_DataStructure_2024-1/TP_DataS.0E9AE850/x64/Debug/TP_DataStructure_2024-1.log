@@ -1,0 +1,65 @@
+﻿  Controladora.cpp
+C:\Users\Olidata\Downloads\TP_U202215979_SANCHEZ SILVA_LUCIANA_CELESTE\TP_DataStructure_2024-1\Controladora.h(149,76): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/Controladora.cpp")
+  
+C:\Users\Olidata\Downloads\TP_U202215979_SANCHEZ SILVA_LUCIANA_CELESTE\TP_DataStructure_2024-1\Controladora.h(150,70): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/Controladora.cpp")
+  
+C:\Users\Olidata\Downloads\TP_U202215979_SANCHEZ SILVA_LUCIANA_CELESTE\TP_DataStructure_2024-1\Controladora.h(153,98): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/Controladora.cpp")
+  
+C:\Users\Olidata\Downloads\TP_U202215979_SANCHEZ SILVA_LUCIANA_CELESTE\TP_DataStructure_2024-1\Controladora.h(153,173): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/Controladora.cpp")
+  
+C:\Users\Olidata\Downloads\TP_U202215979_SANCHEZ SILVA_LUCIANA_CELESTE\TP_DataStructure_2024-1\Controladora.h(158,76): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/Controladora.cpp")
+  
+C:\Users\Olidata\Downloads\TP_U202215979_SANCHEZ SILVA_LUCIANA_CELESTE\TP_DataStructure_2024-1\Controladora.h(159,70): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/Controladora.cpp")
+  
+C:\Users\Olidata\Downloads\TP_U202215979_SANCHEZ SILVA_LUCIANA_CELESTE\TP_DataStructure_2024-1\Controladora.h(162,98): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/Controladora.cpp")
+  
+C:\Users\Olidata\Downloads\TP_U202215979_SANCHEZ SILVA_LUCIANA_CELESTE\TP_DataStructure_2024-1\Controladora.h(162,173): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/Controladora.cpp")
+  
+C:\Users\Olidata\Downloads\TP_U202215979_SANCHEZ SILVA_LUCIANA_CELESTE\TP_DataStructure_2024-1\Controladora.h(187,9): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/Controladora.cpp")
+  
+  TP_DataStructure_2024-1.cpp
+C:\Users\Olidata\Downloads\TP_U202215979_SANCHEZ SILVA_LUCIANA_CELESTE\TP_DataStructure_2024-1\Controladora.h(149,76): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/TP_DataStructure_2024-1.cpp")
+  
+C:\Users\Olidata\Downloads\TP_U202215979_SANCHEZ SILVA_LUCIANA_CELESTE\TP_DataStructure_2024-1\Controladora.h(150,70): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/TP_DataStructure_2024-1.cpp")
+  
+C:\Users\Olidata\Downloads\TP_U202215979_SANCHEZ SILVA_LUCIANA_CELESTE\TP_DataStructure_2024-1\Controladora.h(153,98): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/TP_DataStructure_2024-1.cpp")
+  
+C:\Users\Olidata\Downloads\TP_U202215979_SANCHEZ SILVA_LUCIANA_CELESTE\TP_DataStructure_2024-1\Controladora.h(153,173): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/TP_DataStructure_2024-1.cpp")
+  
+C:\Users\Olidata\Downloads\TP_U202215979_SANCHEZ SILVA_LUCIANA_CELESTE\TP_DataStructure_2024-1\Controladora.h(158,76): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/TP_DataStructure_2024-1.cpp")
+  
+C:\Users\Olidata\Downloads\TP_U202215979_SANCHEZ SILVA_LUCIANA_CELESTE\TP_DataStructure_2024-1\Controladora.h(159,70): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/TP_DataStructure_2024-1.cpp")
+  
+C:\Users\Olidata\Downloads\TP_U202215979_SANCHEZ SILVA_LUCIANA_CELESTE\TP_DataStructure_2024-1\Controladora.h(162,98): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/TP_DataStructure_2024-1.cpp")
+  
+C:\Users\Olidata\Downloads\TP_U202215979_SANCHEZ SILVA_LUCIANA_CELESTE\TP_DataStructure_2024-1\Controladora.h(162,173): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/TP_DataStructure_2024-1.cpp")
+  
+C:\Users\Olidata\Downloads\TP_U202215979_SANCHEZ SILVA_LUCIANA_CELESTE\TP_DataStructure_2024-1\Controladora.h(187,9): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/TP_DataStructure_2024-1.cpp")
+  
+C:\Users\Olidata\Downloads\TP_U202215979_SANCHEZ SILVA_LUCIANA_CELESTE\TP_DataStructure_2024-1\TP_DataStructure_2024-1.cpp(15,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "/TP_DataStructure_2024-1.cpp")
+  
+C:\Users\Olidata\Downloads\TP_U202215979_SANCHEZ SILVA_LUCIANA_CELESTE\TP_DataStructure_2024-1\TP_DataStructure_2024-1.cpp(22,3): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/TP_DataStructure_2024-1.cpp")
+  
+  Generando código...
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  TP_DataStructure_2024-1.vcxproj -> C:\Users\Olidata\Downloads\TP_U202215979_SANCHEZ SILVA_LUCIANA_CELESTE\TP_DataStructure_2024-1\x64\Debug\TP_DataStructure_2024-1.exe
